@@ -26,7 +26,7 @@
 # ADD THE DIRECT DOWNLOAD LINK FOR YOUR APP HERE:
 
 # Example: DownloadURL="https://dl.google.com/chrome/mac/stable/googlechrome.dmg"
-DownloadURL="___"
+DownloadURL="$4"
 
 # -------------------------------------------------------------------------------------
 
