@@ -1,0 +1,7 @@
+*/
+Custom LoginLogo for MacOS loginwindow
+/* 
+
+#!/bin/bash
+#LoginLogo - Path to an image to use for the logo at login
+defaults write /Library/Preferences/com.jamf.connect.login.plist LoginLogo -string "$/usr/local/shared/logo.png"
